@@ -35,5 +35,5 @@ int main()
             } 
         }
         count=n-temp;
-    cout<<"number of zeros="<<count;
+    cout<<"number of zeros="<<count;   
 }
