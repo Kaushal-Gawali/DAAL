@@ -9,6 +9,7 @@ using namespace std;
 
 int main()
 {
+    //declaring variables
     int arr[20],n,i,count=0;
     cout<<"\n Enter the size of array=";
     cin>>n;
